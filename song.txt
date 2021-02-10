@@ -1,8 +1,16 @@
 sword and spear
 wall of shields
+<<<<<<< HEAD
 Standing strong 
 on fields
 
-BIG DICKS
+form the lines
+shiled by shield
+-------------------
+=======
+standing strong
+on this chosen battle
 
-
+form the lines 
+of your battle
+>>>>>>> ae0d2373e9524635a95c3ed6decfd9765ac98667
